@@ -53,3 +53,29 @@ Remember the old joke about the concert violinist who got lost on his way to a p
 > The old man looked at the violinist and the violin tucked under his arm, and said: “Practice, son. Practice!”
 
 ## Chapter 2: Meaningful Names
+
+Use descriptive, intention-revealing names.
+
+Use pronounceable and searchable names.
+
+Use computer science names, whenever possible, like algorithm names, pattern names, math terms, and so forth. In the other cases, use names from the problem domain.
+
+Pick one word for one abstract concept and stick with it.
+
+The length of a name should correspond to the size of its scope.
+
+Avoid encodings (hungarian notation, member prefixes, interfaces and implementations prefixes/suffixes).
+
+Avoid mental mapping.
+
+Avoid disinformation.
+
+Avoid using the same word for two purposes.
+
+Add meaningful context: place names in context for your reader by enclosing them in well-named classes, functions, or namespaces. When all else fails, then prefixing the name may be necessary as a last resort.
+
+Shorter names are generally better than longer ones, so long as they are clear. Add no more context to a name than is necessary.
+
+Don't be afraid to rename things when you feel it's right.
+
+## Chapter 3: Functions
